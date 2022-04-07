@@ -7,5 +7,6 @@
 		"paths": {},
 		"declarationDir": "./dist/",
 		"outDir": "./dist/"
-	}
+	},
+	"references": []
 }
