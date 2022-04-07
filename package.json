@@ -3,6 +3,10 @@
 	"version": "0.0.0",
 	"private": true,
 	"license": "MIT",
+	"workspaces": [
+		"packages/apps/*",
+		"packages/libs/*"
+	],
 	"devDependencies": {
 		"@changesets/cli": "^2.22.0",
 		"@packagaya/cli": "^1.1.5",
