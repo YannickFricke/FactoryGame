@@ -9,4 +9,4 @@ install:
 	yarn install
 
 commit: clear
-	yarn run cz
+	yarn run changeset
