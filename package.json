@@ -8,8 +8,7 @@
 		"@packagaya/ts-adapter": "^1.5.2",
 		"@packagaya/vscode-adapter": "^1.0.1",
 		"commitizen": "^4.2.4",
-		"cz-conventional-changelog": "^3.3.0",
-		"standard-version": "^9.3.2"
+		"cz-conventional-changelog": "^3.3.0"
 	},
 	"config": {
 		"commitizen": {
