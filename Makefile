@@ -1,8 +1,12 @@
 .PHONY: clear \
-		install
+		install \
+		commit
 
 clear:
 	cls || clear
 
 install:
 	yarn install
+
+commit: clear
+	yarn run cz
